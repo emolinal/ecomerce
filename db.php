@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$db = "tienda_tusolutionweb";
+$servername = "telecomunicacionespalencia-mysqldbserver.mysql.database.azure.com";
+$username = "mysqldbuser@telecomunicacionespalencia-mysqldbserver";
+$password = "Palencia1";
+$db = "ecomercepalencia";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
