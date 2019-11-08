@@ -30,7 +30,7 @@ if(isset($_SESSION["uid"])){
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="http://tusolutionweb.blogspot.pe/" class="navbar-brand">Tienda Tusolutionweb</a>
+				
 			</div>
 		<div class="collapse navbar-collapse" id="collapse">
 			<ul class="nav navbar-nav">
