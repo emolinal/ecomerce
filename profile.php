@@ -31,7 +31,7 @@ if(!isset($_SESSION["uid"])){
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="" class="navbar-brand">Tienda tusolutionweb</a>
+				<a href="/" class="navbar-brand">Home</a>
 			</div>
 		<div class="collapse navbar-collapse" id="collapse">
 			<ul class="nav navbar-nav">
@@ -130,7 +130,7 @@ if(!isset($_SESSION["uid"])){
 						</div> -->
 					</div>
 					<div class="panel-footer">
-<li><a href="http://tusolutionweb.blogspot.pe/" >DESCARGA MAS SISTEMAS GRATIS AQUI</a></li>
+
 					</div>
 				</div>
 			</div>
@@ -148,6 +148,54 @@ if(!isset($_SESSION["uid"])){
 	</div>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
