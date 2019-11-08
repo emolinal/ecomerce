@@ -129,7 +129,7 @@ if(isset($_SESSION["uid"])){
 						</div> -->
 					</div>
 					<div class="panel-footer">
-<li><a href="http://tusolutionweb.blogspot.pe/" >DESCARGA MAS SISTEMAS GRATIS AQUI</a></li>
+
 					</div>
 				</div>
 			</div>
